@@ -66,9 +66,9 @@ class Config(object):
     MONGO_DB = "Exon"  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
     ARQ_API_URL = "https://arq.hamker.in"  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
     ARQ_API_KEY = "BAAFBV-WWXLSM-MNQNEN-RHYBUB-ARQ"
-    DONATION_LINK = "t.me/AbishnoiMF"
-    HELP_IMG = "https://telegra.ph/file/14d1f98500af1132e5460.jpg"
-    START_IMG = "https://telegra.ph/file/14d1f98500af1132e5460.jpg"
+    DONATION_LINK = "https://t.me/theshivanshu"
+    HELP_IMG = "https://graph.org/file/329a14479cd98952351e7.jpg"
+    START_IMG = "https://graph.org/file/765d8bb82d09591e60368.jpg"
     UPDATES_CHANNEL = "Abishnoi_bots"
     INFOPIC = False
     GENIUS_API_TOKEN = "28jwoKAkskaSjsnsksAjnwjUJwj"
